@@ -1,10 +1,13 @@
 import React from "react";
+import possibilityImage from "../../assets/possibility.png";
 import "./possibility.css";
 
 const Possibility = () => {
   return (
-    <div>
-      <h1>possibility</h1>
+    <div className="gpt3__possibility section__padding">
+      <div className="gpt3__possibility-image">
+        <img src={possibilityImage} alt="possibility" />
+      </div>
     </div>
   );
 };
