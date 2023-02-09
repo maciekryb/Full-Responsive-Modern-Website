@@ -52,6 +52,7 @@
 @media screen and (max-width: 650px) {
   .gpt3__cta {
     flex-direction: column;
+    margin: 2rem;
   }
 
   .gpt3__cta-btn {
