@@ -6,13 +6,13 @@ const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-heading">
-        <h1 className="gradient-text">Do you want to step in to the future before others</h1>
+        <h1 className="gradient__text">Do you want to step in to the future before others</h1>
       </div>
       <div className="gpt3__footer-btn">
         <p>Request Early Access</p>
       </div>
       <div className="gpt3__footer-links">
-        <div className="gpt3__footer-link_logo">
+        <div className="gpt3__footer-links_logo">
           <img src={gpt3Logo} alt="logo" />
           <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
         </div>
